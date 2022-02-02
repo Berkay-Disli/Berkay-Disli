@@ -2,11 +2,11 @@
 - I'm studying Industrial Engineering
 - I'm currently learning iOS development with Swift and blockchain smart contracts with Solidity
 
-- Here is how to reach me {
+- Here is how to reach me 
     - berkaydisli.work@gmail.com
     - Berkay Dişli    // LinkedIn
     - @berkayd_       // instagram 
-- }
+
 
 
 <!---
