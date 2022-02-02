@@ -6,7 +6,7 @@
     - berkaydisli.work@gmail.com
     - Berkay Dişli    // LinkedIn
     - @berkayd_       // instagram 
-}
+- }
 
 
 <!---
