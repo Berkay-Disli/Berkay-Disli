@@ -1,15 +1,12 @@
-- Hi, this is Berkay Dişli
-- I'm an iOS Developer. Combining SwiftUI and MVVM architecture, i have developed many clone app's and also some experimental app's.
-- In order to store data and manage authentication, i am mainly using Firebase SDK and CoreData.
+## Profile
+ - **Berkay Dişli** | **04.1999**
+ - **Education:** Bachelor | Fenerbahçe University | IE | **3. Year**
+ - **LinkedIn:** https://www.linkedin.com/in/berkaydisli
+ - **Github:** https://github.com/Berkay-Disli
+ 
+ ## Contact
+- **Email**：berkay.dsli@gmail.com
 
-- Here is how to reach me 
-    - berkaydisli.work@gmail.com
-    - Berkay Dişli    // LinkedIn
-    - @berkayd_       // instagram 
-
-
-
-<!---
-Berkay-Disli/Berkay-Disli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+A motivated, organized and collaborative individual with knowledge of iOS environment and development tools. I have always been passionate about being a part of a harmonious team with great integrity. 
+I'm eager to improve my skill set in development by creating my own applications, contributing open source projects and keeping myself up to date by following new technologies.
