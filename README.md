@@ -1,6 +1,6 @@
 - Hi, this is Berkay Dişli
-- I'm studying Industrial Engineering
-- I'm currently learning iOS development with Swift and blockchain smart contracts with Solidity
+- I'm an iOS Developer. Combining SwiftUI and MVVM architecture, i have developed many clone app's and also some experimental app's.
+- In order to store data and manage authentication, i am mainly using Firebase SDK and CoreData.
 
 - Here is how to reach me 
     - berkaydisli.work@gmail.com
