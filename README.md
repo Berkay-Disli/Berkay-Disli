@@ -1,3 +1,7 @@
+<p align="middle">
+  <img src="Berkay Dişli.png" width=100% height=100%>
+</p>
+
 ## Profile
  - **Berkay Dişli** | **04.1999**
  - **Education:** Bachelor | Fenerbahçe University | IE | **3. Year**
