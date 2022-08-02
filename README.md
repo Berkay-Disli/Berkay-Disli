@@ -1,6 +1,6 @@
 ## Profile
  - **Berkay Dişli** | **04.1999**
- - **Education:** Bachelor | Fenerbahçe University | IE | **3. Year**
+ - **Education:** Bachelor | Fenerbahçe University | IE | **4. Year**
  - **LinkedIn:** https://www.linkedin.com/in/berkaydisli
  
  
