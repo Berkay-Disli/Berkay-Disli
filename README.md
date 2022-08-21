@@ -21,4 +21,4 @@ I'm eager to improve my skill set in development by creating my own applications
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkay-disli&show_icons=true&theme=dark&locale=en&layout=compact" alt="berkay-disli" /></p>
 
-<p><br /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkay-disli&theme=dark" alt="berkay-disli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkay-disli&theme=dark" alt="berkay-disli" /></p>
