@@ -11,7 +11,7 @@ I'm eager to improve my skill set in development by creating my own applications
 <p align="left">
 <a href="https://mail.google.com" target="blank"><img align="center" src="https://marka-logo.com/wp-content/uploads/2020/11/Gmail-Logo.png" alt="berkaydisli" height="30" width="40" /></a> berkay.dsli@gmail.com </p>
 <p align="left">
-<a href="https://linkedin.com/in/berkaydisli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaydisli" height="30" width="40" /></a> linkedin.com/in/berkaydisli
+<a href="https://linkedin.com/in/berkaydisli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaydisli" height="30" width="40" /></a> in/berkaydisli
 </p>
 
 
