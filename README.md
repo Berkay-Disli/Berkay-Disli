@@ -2,7 +2,7 @@
  - **Berkay Dişli** | **04.1999**
  - **Education:** Bachelor | IE | **4. Year**
  - **LinkedIn:** https://www.linkedin.com/in/berkaydisli
- - **My latest project: [Cryptholic](https://github.com/Berkay-Disli/Cryptholic)**
+ - **My showcase project: [Cryptholic](https://github.com/Berkay-Disli/Cryptholic)**
  
  A motivated, organized and collaborative individual with knowledge of iOS environment and development tools. I have always been passionate about being a part of a harmonious team with great integrity. 
 I'm eager to improve my skill set in development by creating my own applications, contributing open source projects and keeping myself up to date by following new technologies. 
