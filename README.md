@@ -2,7 +2,7 @@
  - **🚀🚀 CHECK OUT MOODHAVEN IN [APPSTORE](https://apps.apple.com/tr/app/moodhaven/id6448680251?l=tr)**
  - https://www.berkaydisli.com
  - **Berkay Dişli** | **04.1999**
- - **Education:** Bachelor | IE | **4. Year**
+ - **Education:** Bachelor | IE
  - **LinkedIn:** https://www.linkedin.com/in/berkaydisli
  - **My showcase project: [Cryptholic](https://github.com/Berkay-Disli/Cryptholic)**
  - **Please check my pinned projects below 🤩**
