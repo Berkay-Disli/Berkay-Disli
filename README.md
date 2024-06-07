@@ -1,14 +1,13 @@
 ## Profile
- - **🚀🚀 CHECK OUT MOODHAVEN IN [APPSTORE](https://apps.apple.com/tr/app/moodhaven/id6448680251?l=tr)**
- - https://www.berkaydisli.com
  - **Berkay Dişli** | **04.1999**
- - **Education:** Bachelor | IE
- - **LinkedIn:** https://www.linkedin.com/in/berkaydisli
- - **My showcase project: [Cryptholic](https://github.com/Berkay-Disli/Cryptholic)**
- - **Please check my pinned projects below 🤩**
- 
- A motivated, organized and collaborative individual with knowledge of iOS environment and development tools. I have always been passionate about being a part of a harmonious team with great integrity. 
-I'm eager to improve my skill set in development by creating my own applications, contributing open source projects and keeping myself up to date by following new technologies. 
+ - **Education:** Bachelor of Engineering (IE)
+ - **Check out [Moodhaven](https://apps.apple.com/tr/app/moodhaven/id6448680251?l=tr) in App Store**
+ - Currently developing Steady, a professional finance tracking app with open banking features.
+
+Creating seamless, high-performance iOS apps with UIKit and SwiftUI. Passionate about transforming ideas into impactful mobile experiences, I stay ahead of the curve in the ever-evolving tech landscape. Beyond iOS, I develop web apps with Next.js, craft backend solutions with Node.js and leverage AWS DynamoDB, S3 and Lambda to build robust systems.
+
+You can check out Moodhaven in App Store.
+
 
  ## Contact
 <p align="left">
