@@ -1,13 +1,8 @@
-## Profile
- - **Berkay Dişli** | **04.1999**
- - **Education:** Bachelor of Engineering (IE)
+## Berkay Dişli
  - **Check out [Steady](https://apps.apple.com/us/app/steady-finance-tracker/id6504777270) in App Store**
  - **Check out [Moodhaven](https://apps.apple.com/tr/app/moodhaven/id6448680251?l=tr) in App Store**
 
 Creating seamless, high-performance iOS apps with UIKit and SwiftUI. Passionate about transforming ideas into impactful mobile experiences, I stay ahead of the curve in the ever-evolving tech landscape. Beyond iOS, I develop web apps with Next.js, craft backend solutions with Node.js or Java Springboot and leverage AWS DynamoDB, S3 and Lambda to build robust systems.
-
-You can check out Moodhaven in App Store.
-
 
  ## Contact
 <p align="left">
